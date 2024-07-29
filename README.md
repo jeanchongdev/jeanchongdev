@@ -23,26 +23,26 @@ https://i.pinimg.com/originals/4d/7a/08/4d7a08e2814de22f701c97d17917416c.gif
 
 <!------------------------------------------------------------------------------------------------->
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jeanchong15&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jeanchongdev&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!------------------------------------------------------------------------------------------------->
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jeanchong15&show_icons=true&count_private=true&hide_border=true&title_color=02D9F7FF&icon_color=02D9F7FF&text_color=c9d1d9&bg_color=0d1117" alt="Bastian Dev github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jeanchongdev&show_icons=true&count_private=true&hide_border=true&title_color=02D9F7FF&icon_color=02D9F7FF&text_color=c9d1d9&bg_color=0d1117" alt="Bastian Dev github stats" /> 
   
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanchong15&layout=compact&hide_border=true&title_color=02D9F7FF&text_color=02D9F7FF&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanchongdev&layout=compact&hide_border=true&title_color=02D9F7FF&text_color=02D9F7FF&bg_color=0d1117" />
 </div> 
 
 <p align="center">
- <img  src="https://github-readme-streak-stats.herokuapp.com?user=jeanchong15&theme=tokyonight_duo&hide_border=true"
+ <img  src="https://github-readme-streak-stats.herokuapp.com?user=jeanchongdev&theme=tokyonight_duo&hide_border=true"
 </p>
     
 <!------------------------------------------------------------------------------------------------->
 
 <h2 align="center">📱 Contact 📱</h2>
  <div align="center">
-   <a href="https://www.linkedin.com/in/jeanchong15" target="_blank">
+   <a href="https://www.linkedin.com/in/jeanchongdev" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
      <a href="mailto:grarenajeanpro@gmail.com">
@@ -104,7 +104,7 @@ graph TD;
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count 👽 </b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{jeanchong15}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{jeanchongdev}/count.svg" /></p> 
 <br>
 </div>
 
