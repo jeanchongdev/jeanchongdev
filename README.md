@@ -131,9 +131,7 @@ graph TD;
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️">
 </h3>
 <!------------------------------------------------------------------------------------------------->
-## Escuchando en Spotify
 
-[![Spotify](https://spotify-nove-playen.vercel.app/api/spotify-nove-playen)](https://open.spotify.com/user/USER_NAME)
 
 
 
