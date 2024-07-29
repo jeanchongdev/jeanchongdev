@@ -133,7 +133,11 @@ graph TD;
 <!------------------------------------------------------------------------------------------------->
 ## Escuchando en Spotify
 
-[![Spotify](https://spotify-jean-git-main-ferzax.vercel.app)](https://open.spotify.com/user/USER_NAME)
+[![Spotify](https://spotify-nove-playen.vercel.app/api/spotify-nove-playen)](https://open.spotify.com/user/USER_NAME)
+
+
+
+
 
 
 
