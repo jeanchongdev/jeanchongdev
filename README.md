@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.pinimg.com/originals/74/8c/2b/748c2b6da9774d534fe4d1fb4014ee37.gif" alt="GIF de ejemplo">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWdjbWk5OG9uYWZzemhob2N1b3MyM3FmZXl2MXBiYmE1dmVqZHRueSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3osxY9kuM2NGUfvThe/giphy.gif" alt="GIF de ejemplo">
 </p>
 <!--<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/19292210/199123129-b9c2437d-4e6d-4f1c-a7ea-d9a91babb41d.gif">
@@ -40,7 +40,7 @@ https://i.pinimg.com/originals/4d/7a/08/4d7a08e2814de22f701c97d17917416c.gif
     
 <!------------------------------------------------------------------------------------------------->
 
-<h2 align="center">📱 Contact 📱</h2>
+<h2 align="center">📱 Connect with me 📱</h2>
  <div align="center">
    <a href="https://www.linkedin.com/in/jeanchongdev" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
@@ -58,16 +58,56 @@ graph TD;
     Front-End-->HTML5;
     Front-End-->CSS3;
     Front-End-->JavaScript;
-```
+    Front-End-->React;
+    Front-End-->Bootstrap;
 
+    Back-End-->PHP;
+    Back-End-->MySql;
+    Back-End-->Firebase;
+
+    Version-Control-->Git;
+    Version-Control-->GitHub;
+```
 <!------------------------------------------------------------------------------------------------->
 
-<h2 align="center">⚒️ Languages ⚒️</h2>
-<p align="center">
+<h2 align="center">⚒️ My Skill Set ⚒️</h2>
+
+### Frontend  
+<div align="center">  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
+</div>
+
+</td><td valign="top" width="33%">
+
+<!--<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,github" />
   </a>
-</p>
+</p>-->
+<!------------------------------------------------------------------------------------------------->
+
+### Backend  
+<div align="center">  
+<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
+<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
+</div>
+
+</td><td valign="top" width="33%">
+<!------------------------------------------------------------------------------------------------->
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+<!------------------------------------------------------------------------------------------------->
+### Version Control 
+<div align="center">  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="50" /></a>
+</div>
+
 
 <!------------------------------------------------------------------------------------------------->
 
