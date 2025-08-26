@@ -143,10 +143,11 @@ graph TD;
 <!------------------------------------------------------------------------------------------------->
 
 <div align="center">
-  <h3>👁️ Visitors Count</h3>
-  <img src="https://jeanchongdev-views.vercel.app/api/visitors?username=jeanchongdev" alt="Visitor Count" />
-  <br><br>
-  <p><i>¡Gracias por visitar mi perfil! 😎</i></p>
+<br><p align="centre"><b>Visitors Count 👽 </b></p>  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jeanchongdev&label=Profile%20views&color=0e75b6&style=flat" alt="jeanchongdev" />
+</p> 
+<br>
 </div>
 
 
