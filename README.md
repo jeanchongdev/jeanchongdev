@@ -145,7 +145,7 @@ graph TD;
 <div align="center">
 <br><p align="centre"><b>Visitors Count 👽 </b></p>  
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jeanchongdev&label=Profile%20views&color=0e75b6&style=flat" alt="sofidevo" />
+  <img src="https://komarev.com/ghpvc/?username=jeanchongdev&label=Profile%20views&color=0e75b6&style=flat" alt="jeanchongdev" />
 </p> 
 <br>
 </div>
