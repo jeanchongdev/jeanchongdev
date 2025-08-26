@@ -144,7 +144,9 @@ graph TD;
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count 👽 </b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{jeanchongdev}/count.svg" /></p> 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jeanchongdev&label=Profile%20views&color=0e75b6&style=flat" alt="sofidevo" />
+</p> 
 <br>
 </div>
 
