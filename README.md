@@ -176,7 +176,11 @@ graph TD;
 <!------------------------------------------------------------------------------------------------->
 
 
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:39d353,100:006d32&section=footer" alt="" width="100%">
+
+</div>
 
 
 
